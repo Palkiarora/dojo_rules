@@ -5,8 +5,8 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-
 * not follow camelCase 
+* and many more
 
 
 
